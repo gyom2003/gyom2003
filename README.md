@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **guillaume1.leformal@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/jean-/Documents/guillaumedoss/efrei/scolarit%C3%A9/2nd%20ann%C3%A9e/CV/CV%20Guillaume.pdf](file:///C:/Users/jean-/Documents/guillaumedoss/efrei/scolarit%C3%A9/2nd%20ann%C3%A9e/CV/CV%20Guillaume.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
